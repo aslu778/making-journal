@@ -26,9 +26,9 @@ layout: default
 
 
 ## **Week 1 - In-class Group Data Portrait:**
-![alt text](assets/week-01/Classwork week 1 - 1.jpeg)
-![alt text](assets/week-01/Classwork week 1 - 2.jpeg)
-![alt text](assets/week-01/Classwork week 1 - 3.jpeg)
+![alt text](<../assets/week-01/Classwork week 1 - 1.jpeg>)
+![alt text](<../assets/week-01/Classwork week 1 - 2.jpeg>)
+![alt text](<../assets/week-01/Classwork week 1 - 3.jpeg>)
 
 **Mini reflection for the in-class activity:**
 During the in-class activity, it was hard to agree on how the visual system should look, and we ended up spending too much time making it cohesive when it was okay to look messy.
@@ -44,9 +44,8 @@ During the in-class activity, it was hard to agree on how the visual system shou
 
 
 **visual System and Legend**
-![alt text](<Images/Classwork visual system week 1.jpg>)
-![alt text](<Images/Classwork Legend week 1.jpg>)
-
+![alt text](<../assets/week-01/Classwork visual system week 1.jpg>)
+![alt text](<../assets/week-01/Classwork Legend week 1.jpg>)
 
 For this project, I decided to track each time I saw my own reflection through a mirror, a window, or a shiny surface. I did this by categorising and recording the type of surface, time of day, how I felt in that moment, and what I did afterward. I was drawn to this idea because reflections are everywhere, yet we rarely pay attention to them, and we often have unconscious encounters with ourselves. I wanted to see what would happen if I made those moments visible.
 
