@@ -37,7 +37,7 @@ During the in-class activity, it was hard to agree on how the visual system shou
 ## Independent Data Portrait
 
 **Ideas, Notes, Tracking:**
-![alt text](assets/week-01/c:\Users\amyja\OneDrive\Documents\Des240 Data\Images\10001.jpg)
+![alt text](Images/10001.jpg)
 ![alt text](Images/10002.jpg)
 ![alt text](Images/10003.jpg)
 ![alt text](Images/10004.jpg)
