@@ -37,10 +37,11 @@ During the in-class activity, it was hard to agree on how the visual system shou
 ## Independent Data Portrait
 
 **Ideas, Notes, Tracking:**
-![alt text](assets/week-01/10001.jpg)
-![alt text](assets/week-01/10002.jpg)
-![alt text](assets/week-01/10003.jpg)
-![alt text](assets/week-01/10004.jpg)
+![alt text](../assets/week-01/10001.jpg)
+![alt text](../assets/week-01/10002.jpg)
+![alt text](../assets/week-01/10003.jpg)
+![alt text](../assets/week-01/10004.jpg)
+
 
 **visual System and Legend**
 ![alt text](<Images/Classwork visual system week 1.jpg>)
