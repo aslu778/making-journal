@@ -26,9 +26,9 @@ layout: default
 
 
 ## **Week 1 - In-class Group Data Portrait:**
-![alt text](<Images/Classwork week 1 - 1.jpeg>)
-![alt text](<Images/Classwork week 1 - 2.jpeg>)
-![alt text](<Images/Classwork week 1 - 3.jpeg>)
+![alt text](assets/week-01/Classwork week 1 - 1.jpeg)
+![alt text](assets/week-01/Classwork week 1 - 2.jpeg)
+![alt text](assets/week-01/Classwork week 1 - 3.jpeg)
 
 **Mini reflection for the in-class activity:**
 During the in-class activity, it was hard to agree on how the visual system should look, and we ended up spending too much time making it cohesive when it was okay to look messy.
@@ -37,10 +37,10 @@ During the in-class activity, it was hard to agree on how the visual system shou
 ## Independent Data Portrait
 
 **Ideas, Notes, Tracking:**
-![alt text](Images/10001.jpg)
-![alt text](Images/10002.jpg)
-![alt text](Images/10003.jpg)
-![alt text](Images/10004.jpg)
+![alt text](assets/week-01/10001.jpg)
+![alt text](assets/week-01/10002.jpg)
+![alt text](assets/week-01/10003.jpg)
+![alt text](assets/week-01/10004.jpg)
 
 **visual System and Legend**
 ![alt text](<Images/Classwork visual system week 1.jpg>)
