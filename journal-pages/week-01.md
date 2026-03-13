@@ -30,20 +30,20 @@ layout: default
 ![alt text](<../assets/week-01/Classwork week 1 - 2.jpeg>)
 ![alt text](<../assets/week-01/Classwork week 1 - 3.jpeg>)
 
-## Mini reflection for the in-class activity
+### Mini reflection for the in-class activity
 During the in-class activity, it was hard to agree on how the visual system should look, and we ended up spending too much time making it cohesive when it was okay to look messy.
 
 
 ## Independent Data Portrait
 
-## Ideas, Notes, Tracking:
+### Ideas, Notes, Tracking:
 ![alt text](../assets/week-01/10001.jpg)
 ![alt text](../assets/week-01/10002.jpg)
 ![alt text](../assets/week-01/10003.jpg)
 ![alt text](../assets/week-01/10004.jpg)
 
 
-## visual System and Legend
+### visual System and Legend
 ![alt text](<../assets/week-01/Classwork visual system week 1.jpg>)
 ![alt text](<../assets/week-01/Classwork Legend week 1.jpg>)
 
