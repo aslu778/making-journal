@@ -22,3 +22,14 @@ layout: default
 ## AI Usage Statement
 
 *Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+
+
+### To capture the full scope of your practice, each entry in the Making Journal must include a mix of visual and textual evidence, such as sketches, screenshots, GIFs, diagrams, process notes, instructions and reflections.*
+*Include reflective writing that addresses the following:*
+
+What data and visual aspects from Experiment 1 did you choose to work with, and why?
+How did you decide which interactive elements to use?
+What can a viewer learn by interacting with your sketch that they couldn't from your hand-drawn portrait?
+Did you use vibe coding or other tools in your process? What did you learn from this?
+What would you develop further with more time?
+Any other reflections?
