@@ -26,7 +26,7 @@ layout: default
 
 
 ## In-class Group Data Portrait
-![alt text](<../assets/week-01/Classwork week 1 - 1.jpeg>)
+![test](<../assets/week-01/Classwork week 1 - 1.jpeg>)
 ![alt text](<../assets/week-01/Classwork week 1 - 2.jpeg>)
 ![alt text](<../assets/week-01/Classwork week 1 - 3.jpeg>)
 
