@@ -22,3 +22,10 @@ layout: default
 ## AI Usage Statement
 
 *Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+
+
+how would you use the internet to find the weather, definition of a word.. we are using a browser 
+
+we just want data itself, how to get it? - command line
+
+Its been hard to get my head wraped around how the code works 
