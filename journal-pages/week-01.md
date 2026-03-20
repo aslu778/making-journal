@@ -26,12 +26,12 @@ layout: default
 
 
 ## In-class Group Data Portrait
-![questions](<../assets/week-01/Classwork week 1 - 3.jpeg>)*Your caption here*
-![data](<../assets/week-01/Classwork week 1 - 1.jpeg>)*Your caption here*
-![drawing](<../assets/week-01/Classwork week 1 - 2.jpeg>)*Your caption here*
+![questions](<../assets/week-01/Classwork week 1 - 3.jpeg>)
+![data](<../assets/week-01/Classwork week 1 - 1.jpeg>)
+![drawing](<../assets/week-01/Classwork week 1 - 2.jpeg>)
 
 ### Mini reflection for the in-class activity
-During the in-class activity, it was hard to agree on how the visual system should look, and we ended up spending too much time making it cohesive when it was okay to look messy.
+During the in-class activity, it was hard to agree on how the visual system should look. We ended up spending too much time making it cohesive when it was okay to look messy.
 
 
 ## Independent Data Portrait
