@@ -64,3 +64,7 @@ iframe>
 I decided to implement as many visual aspects and interactive elements that I could. With the help if AI I was able to then edit the code with what I had learnt this week and make my design interactive. When I showed a user my Interactive Data Portrait, they were able to know that the colours are changing and saved along with the time. They were able to figure out that something is changing but unsure what the background colours meant. 
 
 When using vibe coding in my process, I learned that it help me a lot when I was stuck with my coding. I send my code and ask whats wrong and it would give me some guidance. Using vibe coding also had some negatives, if I asked to write complex code it would usually have a lot of errors and then I would need to prompt it more to break it down to understand the code and then fix it for myself. If I had more time to futher make my design better, I would add more labeling to explain what happening with what the colours mean, and the time. I would also want to add an extra Canvas that capures a image drawing or something more creating using the data and turn it into art. 
+
+### References
+Microsoft Copilot. (2025). *Microsoft Copilot*. Microsoft  
+   Copilot; Microsoft. https://copilot.microsoft.com/
