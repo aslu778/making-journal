@@ -25,7 +25,7 @@ I used vibe coding for most of my work as I have limited knowlege on coding. The
 
 <iframe src="https://editor.p5js.org/aslu778/full/iJAxcE8hw"
   width="500"
-  height="250">
+  height="150">
 </iframe>
 
 Once I had a base to go off, I kept adding to it slowly. I changed the shapes inside the squares, added a colour history of the bacground colours and a time of day slider. 
@@ -36,8 +36,8 @@ Next, I wanted it to track the time beside the colours so I asked to make the ti
 
 ## Final Experiment 2
 <iframe src="https://editor.p5js.org/aslu778/full/zeB9n44g6"
-  width="500"
-  height="500">
+  width="600"
+  height="490">
 </iframe>
 
 
