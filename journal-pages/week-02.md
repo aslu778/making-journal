@@ -27,12 +27,6 @@ layout: default
 ### To capture the full scope of your practice, each entry in the Making Journal must include a mix of visual and textual evidence, such as sketches, screenshots, GIFs, diagrams, process notes, instructions and reflections.*
 *Include reflective writing that addresses the following:*
 
-<iframe
-  src="https://editor.p5js.org/USERNAME/full/SKETCH_ID"
-  width="400"
-  height="400">
-</iframe>
-
 
 What data and visual aspects from Experiment 1 did you choose to work with, and why?
 How did you decide which interactive elements to use?
@@ -41,8 +35,10 @@ Did you use vibe coding or other tools in your process? What did you learn from 
 What would you develop further with more time?
 Any other reflections?
 
+## In-class Experiments
+
 
 <iframe src="https://editor.p5js.org/aslu778/full/fZkWl0Wit"
-  width="400"
-  height="400">
+  width="500"
+  height="500">
 </iframe>
