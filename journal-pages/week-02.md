@@ -34,7 +34,8 @@ Did you use vibe coding or other tools in your process? What did you learn from 
 What would you develop further with more time?
 Any other reflections?
 
-<iframe src="https://editor.p5js.org/avezray/full/JTjhOdGRB" width="600px" height="400px"></iframe>
 
-
-<iframe src="https://editor.p5js.org/aslu778/full/fZkWl0Wit"></iframe>
+<iframe src="https://editor.p5js.org/aslu778/full/fZkWl0Wit"
+  width="400"
+  height="400">
+</iframe>
