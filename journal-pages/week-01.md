@@ -9,13 +9,13 @@ layout: default
 # Documentation 
 
 ## In-class Group Data Portrait
+First we created a questionnaire, each writing a measurable question. We then each anonymously answered the questions. With the data collected from the questions we then created a visual system to try map everything.
 ![questions](<../assets/week-01/Classwork week 1 - 3.jpeg>)
 ![data](<../assets/week-01/Classwork week 1 - 1.jpeg>)
 ![drawing](<../assets/week-01/Classwork week 1 - 2.jpeg>)
 
 ### Mini reflection for the in-class activity
-During the in-class activity, it was hard to agree on how the visual system should look. We ended up spending too much time making it cohesive when it was okay to look messy.
-
+During the in-class activity, it was hard to agree on how the visual system should look. We ended up spending too much time making it cohesive when it was okay to look messy. It still turned out good as we didnt add every detail for the stucture of time. When we showed it to another group they had mixed ideas and answers to whats happening in the map when trying to decode without seeing the questions. 
 
 
 
