@@ -5,7 +5,7 @@ title: Home
 
 # Making Journal for DES240
 
-*Write a short introduction about yourself and this course here. What are you hoping to learn and achieve? What's your background as a designer? What are your interests as a designer?*
+*Hi, my name is Amy Sluiter. Im a 2nd year in design and im currently taking DES240 as an elective. I decided to choose this class as Im interested in what I will learn and challenge myself.*
 
 ---
 

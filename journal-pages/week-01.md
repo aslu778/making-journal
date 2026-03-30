@@ -17,6 +17,8 @@ layout: default
 During the in-class activity, it was hard to agree on how the visual system should look. We ended up spending too much time making it cohesive when it was okay to look messy.
 
 
+
+
 ## Independent Data Portrait
 
 ### Ideas, Notes, Tracking:
@@ -27,7 +29,9 @@ During the in-class activity, it was hard to agree on how the visual system shou
 
 
 
-### visual System and Legend
+
+## Visual System and Legend
+
 
 ![alt text](<../assets/week-01/Classwork visual system week 1.jpg>)
 ![alt text](<../assets/week-01/Classwork Legend week 1.jpg>)
