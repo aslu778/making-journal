@@ -43,8 +43,25 @@ Any other reflections?
 </iframe>
 
 ### Interactive Data Portrait
+## Planning
+First I wanted to add a feature to change colours as my data drawing consists of many colours for the visuals of the type of surface and the different emotions. 
 
-<iframe src="https://editor.p5js.org/aslu778/full/zeB9n44g6"></iframe>
+I used vibe coding for most of my work as I have limited knowlege on coding. The main LLM I used is Copilot. I first started with a simple idea of the colours changing when I click the button in the example below.
+
+<iframe src="https://editor.p5js.org/aslu778/full/iJAxcE8hw"
+  width="400"
+  height="400">
+</iframe>
+
+Once I had a base to go off, I kept adding to it slowly. I changed the shapes inside the squares, added a colour history of the bacground colours and a time of day slider. 
+
+![alt text](<../assets/week-02/Screenshot 2026-03-30 205141.png>)
+
+Next, I wanted it to track the time beside the colours so I asked to make the time which is selected save beside the colour history rows. I then edited a few thing by myself like the hex colours and the positioning of the wording as it was overlaping. 
+
+### Final Experiment 2
+<iframe src="https://editor.p5js.org/aslu778/full/zeB9n44g6"
+iframe>
   width="400"
   height="400">
 </iframe>
