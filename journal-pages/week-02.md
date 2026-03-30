@@ -35,10 +35,16 @@ Did you use vibe coding or other tools in your process? What did you learn from 
 What would you develop further with more time?
 Any other reflections?
 
-## In-class Experiments
-
+### In-class Experiments
 
 <iframe src="https://editor.p5js.org/aslu778/full/fZkWl0Wit"
-  width="500"
-  height="500">
+  width="400"
+  height="400">
+</iframe>
+
+### Interactive Data Portrait
+
+<iframe src="https://editor.p5js.org/aslu778/full/zeB9n44g6"></iframe>
+  width="400"
+  height="400">
 </iframe>
