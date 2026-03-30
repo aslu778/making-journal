@@ -33,3 +33,6 @@ What can a viewer learn by interacting with your sketch that they couldn't from 
 Did you use vibe coding or other tools in your process? What did you learn from this?
 What would you develop further with more time?
 Any other reflections?
+
+<iframe src="https://editor.p5js.org/avezray/full/JTjhOdGRB" width="600px" height="400px"></iframe>
+
