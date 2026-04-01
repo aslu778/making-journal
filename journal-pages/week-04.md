@@ -31,11 +31,20 @@ https://notebooklm.google.com/
   height="495">
 </iframe>
 
-## Reflection
+## Evaluation
 Across the different visualisations produced, the AI consistently defaulted to safe and conventional design choices: bar charts, blue‑toned colour schemes, rounded‑corner card layouts, and functional, descriptive titles. These defaults reveal a tendency toward generic clarity rather than domain‑specific storytelling. To shape the output toward my actual intentions, I had to override several assumptions—particularly around visual encoding rules, proportional accuracy, responsiveness, and the narrative framing of the data. The AI also made implicit assumptions about the audience, treating fisheries managers as general users who prefer simplicity rather than specialists who might value uncertainty, depth context, or more nuanced ecological indicators. Of the representations generated, the responsive animated dashboard was the most compelling because it felt like a functional tool rather than a static graphic, and it communicated relative magnitudes in a more engaging way. If I were building this without AI, I would spend more time crafting a distinctive visual identity, integrating uncertainty, and designing a layout that reflects the scientific and conservation‑focused narrative more intentionally, rather than relying on the AI’s generic UI patterns.
 
+## Reflection
+I chose the anchovy spawning hotspot dataset. AI tools helped me quickly explore patterns and generate multiple visual forms, but they often treated the data as neutral numbers, missing ecological nuance and cultural context. I had to direct the AI toward specific visual encodings, proportional accuracy, and a more intentional narrative, which taught me how strongly it defaults to generic charts, blue palettes, and simplified interpretations. Each representation shifted what the viewer might understand—static bars emphasised comparison, gradients highlighted depth, and the animated dashboard created a sense of scale and urgency. D’Ignazio and Klein’s ideas reminded me that data visualisation is never neutral, prompting questions about whose knowledge is represented and whose is absent. Mikaere’s framing of data as a strategic asset for Māori development pushed me to consider authority, sovereignty, and the cultural significance of marine spaces in ways the AI did not. Working with AI was efficient and generative, but it reinforced the need for human judgment, especially around narrative, ethics, and context. With more time, I would deepen the cultural framing, incorporate uncertainty, and explore alternative visual metaphors that better reflect ecological and Indigenous perspectives.
+
+
 ## References
+
+Kirikowhai Mikaere. (2018, November 28). Maori data sovereignty
+   for whānau transformation [Video]. YouTube. https://youtu.be/VXy8S3kvnlE?si=ZeGmwG1-ZkoJULTW
+
 Microsoft Copilot. (2025). *Microsoft Copilot*. Microsoft  
    Copilot; Microsoft. https://copilot.microsoft.com/
-   
-Ministry for Primary Industries. (n.d.). Anchovy - Spawning Distribution. Pardon our interruption. https://catalogue.data.govt.nz/dataset/anchovy-spawning-distribution1 
+
+Ministry for Primary Industries. (n.d.). Anchovy - Spawning     
+   Distribution. Pardon our interruption. https://catalogue.data.govt.nz/dataset/anchovy-spawning-distribution1 
