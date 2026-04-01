@@ -29,12 +29,12 @@ https://notebooklm.google.com/
 
 <iframe src="https://editor.p5js.org/aslu778/full/-3Dqh9AuR"
 width="610"
-height="495">
+height="505">
 </iframe>
 
 <iframe src="https://editor.p5js.org/aslu778/full/zkFLMxDpB"
 width="610"
-height="495">
+height="505">
 </iframe>
 
 ## Evaluation
