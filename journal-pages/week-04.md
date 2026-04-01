@@ -17,4 +17,6 @@ Using Ollama was very interesting, at first when I gave it a prompt it begins ty
 
 
 
-<iframe src="https://editor.p5js.org/aslu778/full/zkFLMxDpB"></iframe>
+<iframe src="https://editor.p5js.org/aslu778/full/zkFLMxDpB"  width="610"
+  height="495">
+</iframe>
