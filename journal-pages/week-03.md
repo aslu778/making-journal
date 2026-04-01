@@ -28,7 +28,10 @@ When giving our protocol to another group to follow, they interpreted the rules 
 
 
 # Independent Live Data Visualisation
+![alt text](<../assets/week-03/Value stream map - miro.jpg>)
 
+### My live Data Artefact
+![alt text](<../assets/week-03/data made - cat.jpg>)
 
 
 ## Reflection
