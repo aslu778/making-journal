@@ -142,4 +142,4 @@ I am moving from static visuals → interactive/narrative experience
 My concept is becoming more visually legible and conceptually precise
 
 
-[text](../assets/week-08)
+[Click here for my final project statement](../assets/week-08)
