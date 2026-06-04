@@ -26,7 +26,7 @@ layout: default
 
 ## Week 07 – Process Documentation
 Overview
-This week focused on advancing my Data-Driven Visualisation project through iterative making, peer feedback, and speculative experimentation. The class centred on developing concept sketches, producing a rapid prototype, and exploring alternative directions through “what if” variations. [des240-cla...es-week-07 | PDF]
+This week focused on advancing my Data-Driven Visualisation project through iterative making, peer feedback, and speculative experimentation. The class centred on developing concept sketches, producing a rapid prototype, and exploring alternative directions through “what if” variations.
 These activities helped me move from a conceptual proposal into more concrete visual and interactive forms, while also testing how effectively my idea communicates.
 
 1. Concept Sketches
@@ -66,9 +66,7 @@ Some elements of my drawing may need light framing or labels for clarity
 
 
 Revised Sketch
-In my updated sketch, I:
-
-Introduced stronger grid structures and labelled metrics
+In my updated sketch, I Introduced stronger grid structures and labelled metrics
 Added exaggerated indicators (e.g. “efficiency score”, optimisation suggestions)
 Made the toggle interaction more visible
 Clarified visual differences between expressive and system-driven data
@@ -101,7 +99,7 @@ This confirmed that design language (not just structure) is critical to communic
 
 Key Learning
 
-Rapid prototyping is effective for testing ideas quickly [des240-cla...es-week-07 | PDF]
+Rapid prototyping is effective for testing ideas quickly
 Even small datasets can reveal meaningful differences in representation
 The dashboard needs stronger visual identity (typography, layout, hierarchy)
 
