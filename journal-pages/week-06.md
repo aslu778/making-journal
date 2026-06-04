@@ -27,7 +27,7 @@ layout: default
 
 ## In-class Activity
 
-1. Data Exploration (30 mins)
+1. Data Exploration
 Data source and origin
 The data for this project will be self-generated through a structured observation protocol of my daily commute. Over multiple days, I will manually record my movements at regular intervals, documenting actions such as walking, waiting, transferring between transport modes, pausing, and navigating crowded areas. This data is experiential and situated, reflecting my own embodied interaction with the city rather than an external dataset.
 Data contents and structure
@@ -100,7 +100,7 @@ Data transformation pipeline (raw → interpreted → systemised)
 Visual layering between human and machine perspectives
 
 
-3.2 What do I need to learn? (ranked)
+What do I need to learn? (ranked)
 
 Interactive web design (HTML/CSS/JavaScript or p5.js) – to build the interface
 Data structuring and parsing – translating logs into usable formats
@@ -109,13 +109,13 @@ UI/UX design principles for dashboards – especially authoritative aesthetics
 Basic animation or interaction techniques – toggles, transitions, responsiveness
 
 
-3.3 What are my next steps? (≈170 words)
+What are my next steps?
 My immediate priority is to begin collecting my commuting dataset using the structured observation method I outlined. At the same time, I will define a consistent data format to ensure the information can be translated into both drawings and digital outputs. Alongside this, I will start producing initial hand-drawn visualisations to explore how rhythm, interruption, and movement can be represented visually.
 In parallel, I will begin developing my technical skills in interactive design, starting with simple JavaScript or p5.js experiments to test toggling between different visual states. This will help me understand how to build the dual-layer interface central to my concept.
 I will also refine the visual language of the speculative dashboard, experimenting with typography, grids, and metric displays that communicate authority while subtly exposing their reductive logic. These steps will allow me to connect my conceptual framework with practical execution and ensure that both the data and the interface evolve together.
 
 ## Independent Study
-1. Consultation Reflection (≈170 words)
+1. Consultation Reflection
 The consultation feedback highlighted the strength of my dual-layer concept, particularly the idea of using methodology itself as a form of critique. A key takeaway was the suggestion to further develop the visual language of the speculative dashboard. This shifted my focus from simply building an interface to carefully designing its aesthetic as an argument. I now see the dashboard not just as a container for data, but as a system that communicates authority through specific visual choices such as grids, typography, and metrics.
 The feedback also encouraged me to think about exaggeration as a strategy—pushing optimisation logic further to reveal its assumptions. This has sharpened my direction, making the contrast between hand-drawn and automated data more intentional and legible.
 As a result, I will be more deliberate in designing how the interface looks and behaves, ensuring it clearly reflects institutional control while revealing its limitations. This will guide my next steps in both visual experimentation and technical development.
