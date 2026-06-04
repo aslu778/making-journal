@@ -24,7 +24,7 @@ layout: default
 *Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
 
 
-Week 07 – Process Documentation
+## Week 07 – Process Documentation
 Overview
 This week focused on advancing my Data-Driven Visualisation project through iterative making, peer feedback, and speculative experimentation. The class centred on developing concept sketches, producing a rapid prototype, and exploring alternative directions through “what if” variations. [des240-cla...es-week-07 | PDF]
 These activities helped me move from a conceptual proposal into more concrete visual and interactive forms, while also testing how effectively my idea communicates.
@@ -138,7 +138,7 @@ Increasing dominance of clean dashboard elements
 Time-based transitions showing system takeover
 
 
-Independent Study
+## Independent Study
 1. Project Development & Skill Building
 I continued developing both the conceptual and technical aspects of my project.
 What I Did
